@@ -1,0 +1,15 @@
+{
+  "name": "GraphQL_server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Rinjs/GraphQL_server.git",
+  "author": "Vladislav Korenik <vladislavkorenik@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "graphpack": "^1.0.9"
+  },
+  "scripts": {
+    "dev": "graphpack",
+    "build": "graphpack build"
+  }
+}
